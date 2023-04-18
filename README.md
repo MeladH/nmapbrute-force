@@ -1,6 +1,6 @@
 # nmapbrute-force
 
-This project for scanning open ports for 100 ports,1000 ports, 65535 ports and brute force attack for password/s, username/s, defult port
+This script for scanning open ports for 100 ports,1000 ports, 65535 ports and brute force attack for password/s, username/s, defult port
 
 How to use it?
 
