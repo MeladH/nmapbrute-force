@@ -6,6 +6,6 @@ How to use it?
 
 First: you have to download nmap and hydra
 
-Second: enter to the folder after to download the file nb.sh and give the owner the permission to executing the file nb.sh .
+Second: enter to the folder after to download it and give the owner the permission to executing the file nb.sh .
 
 Third: ./nb.sh (to run the file)
